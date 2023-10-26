@@ -1,0 +1,15 @@
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\bin\Debug\net6.0\Petshop.Service.deps.json
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\bin\Debug\net6.0\Petshop.Service.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\bin\Debug\net6.0\Petshop.Service.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\bin\Debug\net6.0\Petshop.Domain.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\bin\Debug\net6.0\Petshop.Domain.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.csproj.AssemblyReference.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.AssemblyInfoInputs.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.AssemblyInfo.cs
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.csproj.CoreCompileInputs.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.csproj.CopyComplete
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\refint\Petshop.Service.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\Petshop.Service.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Service\obj\Debug\net6.0\ref\Petshop.Service.dll

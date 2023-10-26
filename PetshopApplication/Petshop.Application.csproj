@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Petshop.Domain\Petshop.Domain.csproj" />
+    <ProjectReference Include="..\Petshop.Infrastructure.Data\Petshop.Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\Petshop.Service\Petshop.Service.csproj" />
+  </ItemGroup>
+
+</Project>
