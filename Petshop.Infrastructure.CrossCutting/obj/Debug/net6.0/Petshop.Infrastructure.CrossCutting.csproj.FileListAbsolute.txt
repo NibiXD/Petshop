@@ -1,0 +1,12 @@
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\bin\Debug\net6.0\Petshop.Infrastructure.CrossCutting.deps.json
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\bin\Debug\net6.0\Petshop.Infrastructure.CrossCutting.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\bin\Debug\net6.0\Petshop.Infrastructure.CrossCutting.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Petshop.Infrastructure.CrossCutting.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\Petshop.Infrastructure.CrossCutting.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Petshop.Infrastructure.CrossCutting.dll

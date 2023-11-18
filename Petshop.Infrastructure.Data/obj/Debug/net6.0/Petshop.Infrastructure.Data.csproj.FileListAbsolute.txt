@@ -1,0 +1,17 @@
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\bin\Debug\net6.0\Petshop.Infrastructure.Data.deps.json
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\bin\Debug\net6.0\Petshop.Infrastructure.Data.runtimeconfig.json
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\bin\Debug\net6.0\Petshop.Infrastructure.Data.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\bin\Debug\net6.0\Petshop.Infrastructure.Data.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\bin\Debug\net6.0\Petshop.Domain.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\bin\Debug\net6.0\Petshop.Domain.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.csproj.CopyComplete
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\refint\Petshop.Infrastructure.Data.dll
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.pdb
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\Petshop.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\cdani\OneDrive\Documentos\Projetos\Petshop\Petshop\Petshop.Infrastructure.Data\obj\Debug\net6.0\ref\Petshop.Infrastructure.Data.dll

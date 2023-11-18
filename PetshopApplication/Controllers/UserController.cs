@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Petshop.Domain.Entities;
 using Petshop.Domain.Interfaces.Services;
@@ -6,7 +7,7 @@ using Petshop.Service.Validators;
 
 namespace Petshop.Application.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class UserController : ControllerBase
     {
@@ -16,7 +17,7 @@ namespace Petshop.Application.Controllers
             _userService = userService;
         }
 
-        [HttpGet]
+        [HttpGet("GetAll")]
         public IActionResult GetAll()
         {
             return Ok(_userService.GetAll());

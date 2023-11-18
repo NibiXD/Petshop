@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Petshop.Domain.Entities;
 using Petshop.Infrastructure.Data.Mapping;
 using System;
@@ -11,13 +12,11 @@ namespace Petshop.Infrastructure.Data.Context
 {
     public class PetshopContext : DbContext
     {
-        public DbSet<User> MyProperty { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseNpgsql(
-                "Server=localhost;" +
-                "Port=5432;Database=petshop;" +
-                "User Id=postgres;" +
-                "Password=postgres;");
+        public DbSet<User> User { get; set; }
+
+        public PetshopContext(DbContextOptions<PetshopContext> options) : base(options)
+        {
+        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
