@@ -13,7 +13,7 @@ namespace Petshop.Infrastructure.Data.Mapping
     {
         public void Configure(EntityTypeBuilder<User> builder)
         {
-            builder.ToTable("User");
+            builder.ToTable("user");
 
             builder.HasKey(k => k.ID);
             builder.Property(k => k.Name)
@@ -21,16 +21,29 @@ namespace Petshop.Infrastructure.Data.Mapping
                 .IsRequired()
                 .HasColumnName("name")
                 .HasColumnType("text");
+
             builder.Property(k => k.Email)
                 .HasConversion(k => k.ToString(), k => k)
                 .IsRequired()
                 .HasColumnName("email")
                 .HasColumnType("text");
+
             builder.Property(k => k.Password)
                 .HasConversion(k => k.ToString(), k => k)
                 .IsRequired()
                 .HasColumnName("password")
                 .HasColumnType("text");
+
+            builder.Property(k => k.Surname)
+                .HasConversion(k => k.ToString(), k => k)
+                .IsRequired()
+                .HasColumnName("Surname")
+                .HasColumnType("text");
+
+            builder.Property(k => k.Role)
+                .IsRequired()
+                .HasColumnName("Role")
+                .HasColumnType("bigint");
         }
     }
 }
